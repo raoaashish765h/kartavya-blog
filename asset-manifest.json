@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kartavya-blog/static/css/main.de96fc8b.css",
+    "main.js": "/kartavya-blog/static/js/main.2b19c1fd.js",
+    "static/js/787.126a53d9.chunk.js": "/kartavya-blog/static/js/787.126a53d9.chunk.js",
+    "index.html": "/kartavya-blog/index.html",
+    "main.de96fc8b.css.map": "/kartavya-blog/static/css/main.de96fc8b.css.map",
+    "main.2b19c1fd.js.map": "/kartavya-blog/static/js/main.2b19c1fd.js.map",
+    "787.126a53d9.chunk.js.map": "/kartavya-blog/static/js/787.126a53d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de96fc8b.css",
+    "static/js/main.2b19c1fd.js"
+  ]
+}
